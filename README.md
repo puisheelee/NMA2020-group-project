@@ -1,6 +1,6 @@
 # NMA2020-group-project
 
-Part of Neuromatch Academy 2020 group project.
+Part of Neuromatch Academy 2020 Computational Neuroscience summer school group project - Task difficulty affects the dimensionality of neural population activity. 
 
 
 Pod-124-quixotic-swan, Regressive Rodents 
